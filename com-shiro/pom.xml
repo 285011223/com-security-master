@@ -10,7 +10,7 @@
   
   <dependencies>
 		<dependency>
-			<groupId>io.renren</groupId>
+			<groupId>com</groupId>
 			<artifactId>com-common</artifactId>
 			<version>${com-version}</version>
 		</dependency>
